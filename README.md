@@ -1,2 +1,2 @@
 # Emreaktas
-benim-mavi-tiklerim
+benim-mavi-tiklerim "llemre."
